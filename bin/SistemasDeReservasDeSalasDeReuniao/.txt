@@ -1,5 +1,0 @@
-Exercício 3: Sistema de Reserva de Salas de Reunião
-Uma empresa utiliza um sistema de reserva de salas de reunião. Cada sala pode ser reservada por no máximo 2 horas seguidas e pode acomodar até 10 pessoas. Se uma reunião foi marcada para a Sala
-A das 9h às 11h e outra reunião na mesma sala das 11h às 12h, o sistema deve verificar se há uma sobreposição. Determine:
-Se há conflito de horários na Sala A.
-Qual seria a solução para evitar sobreposição se a sala pode ser reservada apenas uma vez por período de 2 horas.
